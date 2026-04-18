@@ -19,7 +19,7 @@ Ele permite para que cada jogador crie e controle sua ficha de personagem, rode 
 
 ## Instalação
 
-1. Clone o repositório [SheetMaster_Bot repository](link)
+1. Clone o repositório [SheetMaster_Bot repository](https://github.com/LeoViBo/SheetMaster_Bot)
 
 2. Instale as dependências no terminal:
 
