@@ -1,0 +1,149 @@
+{
+    "264446138537607168": {
+        "name": "Dave",
+        "class": "Barbarian",
+        "race": "Human",
+        "background": "Gladiator",
+        "level": 1,
+        "max hp": 10,
+        "current hp": 10,
+        "temporary hp": 0,
+        "armor class": 10,
+        "initiative bonus": 3,
+        "speed": 30,
+        "attribute": {
+            "STR": 18,
+            "DEX": 16,
+            "CON": 14,
+            "INT": 10,
+            "WIS": 12,
+            "CHA": 12
+        },
+        "proficiency bonus": 2,
+        "skills": {
+            "Strenght Saving Throw": {
+                "attr": "STR",
+                "mod": 4,
+                "proficient": false
+            },
+            "Dexterity Saving Throw": {
+                "attr": "DEX",
+                "mod": 3,
+                "proficient": false
+            },
+            "Constitution Saving Throw": {
+                "attr": "CON",
+                "mod": 2,
+                "proficient": false
+            },
+            "Inteligence Saving Throw": {
+                "attr": "INT",
+                "mod": 0,
+                "proficient": false
+            },
+            "Wisdom Saving Throw": {
+                "attr": "WIS",
+                "mod": 1,
+                "proficient": false
+            },
+            "Charisma Saving Throw": {
+                "attr": "CHA",
+                "mod": 1,
+                "proficient": false
+            },
+            "Acrobatics": {
+                "attr": "DEX",
+                "mod": 3,
+                "proficient": false
+            },
+            "Animal Handling": {
+                "attr": "WIS",
+                "mod": 1,
+                "proficient": false
+            },
+            "Arcana": {
+                "attr": "INT",
+                "mod": 0,
+                "proficient": false
+            },
+            "Athletics": {
+                "attr": "STR",
+                "mod": 4,
+                "proficient": false
+            },
+            "History": {
+                "attr": "INT",
+                "mod": 0,
+                "proficient": false
+            },
+            "Insight": {
+                "attr": "WIS",
+                "mod": 1,
+                "proficient": false
+            },
+            "Intimidation": {
+                "attr": "CHA",
+                "mod": 1,
+                "proficient": false
+            },
+            "Investigation": {
+                "attr": "INT",
+                "mod": 0,
+                "proficient": false
+            },
+            "Medicine": {
+                "attr": "WIS",
+                "mod": 1,
+                "proficient": false
+            },
+            "Nature": {
+                "attr": "INT",
+                "mod": 0,
+                "proficient": false
+            },
+            "Perception": {
+                "attr": "WIS",
+                "mod": 1,
+                "proficient": false
+            },
+            "Performance": {
+                "attr": "CHA",
+                "mod": 1,
+                "proficient": false
+            },
+            "Persuasion": {
+                "attr": "CHA",
+                "mod": 1,
+                "proficient": false
+            },
+            "Religion": {
+                "attr": "INT",
+                "mod": 0,
+                "proficient": false
+            },
+            "Sleight of Hand": {
+                "attr": "DEX",
+                "mod": 3,
+                "proficient": false
+            },
+            "Stealth": {
+                "attr": "DEX",
+                "mod": 3,
+                "proficient": false
+            },
+            "Survival": {
+                "attr": "WIS",
+                "mod": 1,
+                "proficient": false
+            }
+        },
+        "death saves": {
+            "success": 0,
+            "failure": 0
+        },
+        "other proficiencies": [],
+        "abilities": [],
+        "traits": [],
+        "inventory": []
+    }
+}
